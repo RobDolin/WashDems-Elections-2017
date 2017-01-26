@@ -1,7 +1,9 @@
 # WashDems-Elections-2017
 Information about the Washington State Democrats Party Elections in January 2017
 
-Below are candidates for the officer positions sorted alphabetically by last name:
+Below are candidates for the officer positions sorted 
+by officer mention order in the [WSDCC Bylaws](http://www.wa-democrats.org/sites/wadems/files/documents/Washington%20State%20Democrats%20-%20Bylaws%20-%20150418_0.pdf) 
+and alphabetically by last name:
 
 ## Chair
 
