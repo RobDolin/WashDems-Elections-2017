@@ -23,3 +23,9 @@ and alphabetically by last name:
 ## Treasurer
 
 * Habib Habib
+
+# Additions, Edits, and Thanks
+
+If you have an edit or addition, please [open a pull request](https://github.com/RobDolin/WashDems-Elections-2017/pulls), [open an issue](https://github.com/RobDolin/WashDems-Elections-2017/issues), or [send an email](github-washdems-elections-2017@wuxx.com).  
+
+Thank you to [Chad Lupkes](https://github.com/ChadLuples) for help compiling hyperlinks.
