@@ -18,7 +18,7 @@ and alphabetically by last name:
 
 ## Secretary
 
-* [Rob Dolin](https://www.facebook.com/Friends-of-Rob-Dolin-169887253031699/)
+* [Rob Dolin](https://twitter.com/RobDolin)
 
 ## Treasurer
 
