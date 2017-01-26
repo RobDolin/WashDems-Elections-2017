@@ -1,7 +1,7 @@
 # WashDems-Elections-2017
 Information about the Washington State Democrats Party Elections in January 2017
 
-Below is a (possibly incomplete) list of candidates for officer positions.  
+Below is a ([possibly incomplete](#additions-edits-and-thanks)) list of candidates for officer positions.  
 It is sorted by officer mention order in the [WSDCC Bylaws](http://www.wa-democrats.org/sites/wadems/files/documents/Washington%20State%20Democrats%20-%20Bylaws%20-%20150418_0.pdf) 
 and alphabetically by last name:
 
@@ -28,4 +28,4 @@ and alphabetically by last name:
 
 If you have an edit or addition, please [open a pull request](https://github.com/RobDolin/WashDems-Elections-2017/pulls), [open an issue](https://github.com/RobDolin/WashDems-Elections-2017/issues), or [send an email](github-washdems-elections-2017@wuxx.com).  
 
-Thank you to [Chad Lupkes](https://github.com/ChadLuples) for help compiling hyperlinks.
+Thank you to [Chad Lupkes](https://github.com/ChadLupkes) for help compiling hyperlinks.
